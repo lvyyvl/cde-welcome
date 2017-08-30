@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "cde-welcome:toggle"
   },
-  "repository": "https://github.com/ly1984119/cde-welcome.git",
+  "repository": "https://github.com/lvyyvl/cde-welcome.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
