@@ -1,0 +1,6 @@
+'menu': [
+  'label': 'Help'
+  'submenu': [
+    {'label': 'CDE Welcome Guide', 'command': 'CDE Welcome:Show'}
+  ]
+]
