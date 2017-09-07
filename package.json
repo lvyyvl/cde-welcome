@@ -1,7 +1,7 @@
 {
   "name": "cde-welcome",
   "main": "./lib/main",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "CDE Welcome Page package",
   "keywords": [
     "Welcome",
